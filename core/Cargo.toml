@@ -112,7 +112,7 @@ uuid = { version = "1", default-features = false, features = ["v4"] }
 [build-dependencies]
 rand = { version = "0.9", default-features = false, features = ["thread_rng"] }
 rand_distr = "0.5"
-vergen-gitcl = { version = "1.0", default-features = false, features = [
+vergen-gitcl = { version = "9.1.0", default-features = false, features = [
     "build",
 ] }
 
