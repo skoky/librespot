@@ -2,10 +2,10 @@ version: 2
 
 updates:
   - package-ecosystem: github-actions
-    schedule:
-      interval: weekly
-      day: saturday
-      time: "10:00"
+#    schedule:
+#      interval: weekly
+#      day: saturday
+#      time: "10:00"
     groups:
       gha-deps:
         patterns:
